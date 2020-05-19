@@ -15,11 +15,11 @@ sidebar:
     email: m.jan@studenti.unisa.it
     phone: (+39)351 521 5557
     website: tjan90.github.io #do not add http://
-    linkedin: tanveer-jan
+    linkedin: m-tanveer-jan
     github: tjan90
     gitlab:
     bitbucket:
-    twitter: '@tanveerjan90'
+    twitter: '@tanveer_jan90'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -170,22 +170,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: React
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Arduino
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: AWS
         level: 60%
 
 footer: >
