@@ -87,37 +87,36 @@ experiences:
       time: 2016 - 2018
       company: Rural Empowerment and Institional Development
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Management Information System for education
+        - HTML5/CSS3
+        - Javascript
+        - PHP
+        - Bootstrap
+        -SQL
 projects:
     title: Projects
     intro: >
       All the detail implementation of the projects can be checked out here.
     assignments:
-      - title: Velocity
+      - title: Real-Time Object Detection using TensorFlow 2.0
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Application for detectiing objects in real-time with help of tensorFlow machine learning models."
 
-      - title: DevStudio
+      - title: Arduino MKR with AWS-IoT
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Wireless message transfer from Arduino to AWS-IoT"
 
-      - title: Tempo
+      - title: Movie Rating App using serverless platform
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Getting movie ratings on your phone using IMDB API and IFTTT using Nuclio"
 
-      - title: Atom
+      - title: Hypergraph Web Application
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A responsive web application for visualization fo Hypergraphs."
 
-      - title: Delta
+      - title: Face-Denoising
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Neural Network for removing noise from the picture using TensorFlow"
 
 publications:
     title: Publications
