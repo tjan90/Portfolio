@@ -73,12 +73,10 @@ experiences:
       time: January 2021 - Present
       company: Multimedia Lab - CEECS, Florida Atlantic University
       details: |
-          Responsive Web Application for visualizaing Hypergraphs data
-           - Javascript
-           - HTML5/CSS3
-           - MaterialDesign
-           - Github Pages
-           - Jekyll
+          Detection of driving anomolies in 65+ years old people having Alzheimer's and Dimentia
+           - Video/Image Analysis
+           - Machine Learning
+           
     - role: Graduate Assistant
       time: June 2019 - November 2019
       company: ISISLab, University of Salerno
